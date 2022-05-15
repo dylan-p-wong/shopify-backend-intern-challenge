@@ -1,5 +1,7 @@
 # shopify-backend-intern-challenge
 
+This is my submission for the Shopify Backend Intern Challenge. I implemented the "When deleting, allow deletion comments and undeletion" option along with the CRUD functionality. Below is a small documentation for the requests. You should be able to test these with the Repl.it link. Additionally I wrote a few tests and they can be ran by running go test in the test directory.  
+
 **Create Item**
 ----
   Creates a single item.

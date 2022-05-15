@@ -18,7 +18,7 @@
   {
     "title": "afasdfasdfas2",
     "description": "",
-    "count": 122,
+    "count": 122
   }
   ```
 
@@ -49,7 +49,7 @@
 
 **Create Item**
 ----
-  Creates a single item.
+  Get all not deleted items.
 
 * **URL**
 
@@ -111,7 +111,7 @@
   {
     "title": "afasdfasdfas2",
     "description": "",
-    "count": 122,
+    "count": 122
   }
   ```
 

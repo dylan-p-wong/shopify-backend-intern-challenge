@@ -12,7 +12,7 @@
 
   `POST`
 
-* **Data Params**
+* **JSON Body**
 
   ```
   {
@@ -105,7 +105,7 @@
 
   `PATCH`
 
-* **Data Params**
+* **JSON Body**
 
   ```
   {
@@ -152,7 +152,7 @@
 
   `DELETE`
 
-* **Data Params**
+* **JSON Body**
 
   ```
   {

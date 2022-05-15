@@ -47,7 +47,7 @@
       { "errors" : ["Count must be at least 0"] }
     ```
 
-**Create Item**
+**Get Items**
 ----
   Get all not deleted items.
 
